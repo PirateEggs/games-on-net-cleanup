@@ -1,0 +1,19 @@
+{
+  "name": "Clean up games.on.net Forums",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Remove crazy games.on.net Forums header, generally improve the UI.  Feel free to contribute at https://github.com/goosmurf/games-on-net-cleanup",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "*://games.on.net/forums*" ],
+      "css": [ "games-on-net-cleanup.css" ],
+      "js": [ "jquery-1.7.2.min.js", "games-on-net-cleanup.js" ]
+    }
+  ],
+  "permissions": [
+    "*://games.on.net/forums*"
+  ]
+}
