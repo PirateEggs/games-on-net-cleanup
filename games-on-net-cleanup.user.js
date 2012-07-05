@@ -6,8 +6,10 @@
 // @version       1.1
 // ==/UserScript==
 
-if (GM_getValue("gon_cleanup") === undefined) {
-  GM_setValue("gon_cleanup", true);
+// don't execute in frames
+if (window.top !== window.self) {
+  return;
+}
 
 $(function() {
   GM_addStyle('#mspace-block { display: none }');
@@ -26,5 +28,3 @@ $(function() {
   username.after(user_tools);
   new_nav.append("<li>").parent().find(':last').html(post_tools);
 });
-
-} // end run once wrapper
