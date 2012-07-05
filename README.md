@@ -1,5 +1,7 @@
 # games.on.net Forums cleanup
 
+[Install](https://chrome.google.com/webstore/detail/maiphhhfahcojjaffgipkefdjmmmgppi) via Chrome Web Store 
+
 Did you look at this:
 
 ![games.on.net Forums with tall header](/goosmurf/games-on-net-cleanup/raw/master/images/promo_small.png)
