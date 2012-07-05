@@ -2,7 +2,7 @@
   "name": "Clean up games.on.net Forums",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Remove crazy games.on.net Forums header, generally improve the UI.  Feel free to contribute at https://github.com/goosmurf/games-on-net-cleanup",
+  "description": "Pew pew that crazy games.on.net Forums header",
   "icons": {
     "128": "icon_128.png"
   },
