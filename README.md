@@ -1,6 +1,8 @@
 # games.on.net Forums cleanup
 
-[Install](https://chrome.google.com/webstore/detail/maiphhhfahcojjaffgipkefdjmmmgppi) via Chrome Web Store 
+Chrome users: [Install](https://chrome.google.com/webstore/detail/maiphhhfahcojjaffgipkefdjmmmgppi) via Chrome Web Store 
+
+Firefox users: [Greasemonkey script](/goosmurf/games-on-net-cleanup/raw/master/games-on-net-cleanup.user.js)
 
 Did you look at this:
 
