@@ -3,7 +3,7 @@
 // @description   Pew pew that crazy games.on.net Forums header
 // @match         *://games.on.net/forums*
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
-// @version       1.1
+// @version       1.2
 // ==/UserScript==
 
 // don't execute in frames
