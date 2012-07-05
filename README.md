@@ -6,7 +6,7 @@ Did you look at this:
 
 And have this reaction:
 
-![:jackiechan:](/goosmurf/games-on-net-cleanup/raw/master/icon_128.png)
+![:jackiechan:](/goosmurf/games-on-net-cleanup/raw/master/jackie-300x300.png)
 
 This extension replaces that giant waste of space with a trimmed list of useful
 links.
