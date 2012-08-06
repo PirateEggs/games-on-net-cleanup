@@ -10,4 +10,12 @@
   new_nav.append("<li>").parent().find(':last').html(username);
   username.after(user_tools);
   new_nav.append("<li>").parent().find(':last').html(post_tools);
+
+  // remove left/right skin elements because they take up space weirdly
+  // in 1024 width window
+  var remove_ids = [ "skin_left", "skin_right" ];
+  for (var i = 0; i < remove_ids.length; i += 1) {
+    var e = document.getElementById(remove_ids[i]);
+    e.parentNode.removeChild(e);
+  }
 }());

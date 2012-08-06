@@ -2,3 +2,4 @@
 #gon_cleanup_nav li { display: inline-block }
 #gon_cleanup_nav p.username { margin-top: 0; margin-bottom: 0 }
 #gon_cleanup_nav p.user_tools { margin-bottom: 0 }
+div#overall_container { width: 960px !important }
