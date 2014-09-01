@@ -4,6 +4,7 @@
 // @match         *://games.on.net/forums*
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @version       1.4
+// @grant         GM_addStyle
 // ==/UserScript==
 
 // don't execute in frames
